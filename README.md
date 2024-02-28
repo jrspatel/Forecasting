@@ -1,6 +1,7 @@
 # Forecasting 
 ### Steps to follow while performing a forecasting... 
--> test for stationarity
+###-> Test for stationarity 
+      
 
 
 
